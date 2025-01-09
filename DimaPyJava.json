@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/dimaneloh/projects",
+
+  "owner": {
+    "username": "dimapyjava",
+    "email": "maildzaytsev@mail.ru"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "dimapyjava", 
+      "value": "https://dimaneloh.github.io/projects/"
+    }
+  },
+
+  "proxied": false
+}
